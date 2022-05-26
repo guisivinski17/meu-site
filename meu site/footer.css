@@ -1,0 +1,32 @@
+.footer {
+    margin-top: 105px;
+    background-color: white;
+    margin-bottom: 105px;
+}
+
+.footer__logo {
+    font-size: 100px;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.footer--instagram {
+margin-left: 100px;
+
+}
+
+.footer--twitter {
+    margin-left: 90px;
+}
+
+.Instagram {
+    font-size: 50px;
+    margin-left: auto;
+
+}
+
+.Twitter {
+    font-size: 50px;
+    margin-left: -5px;
+   
+}

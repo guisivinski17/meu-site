@@ -1,0 +1,35 @@
+.header {
+    height: 72px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 5.26%;
+    bottom: 0%;
+    
+    background: rgba(255, 255, 255, 0.8);
+    border-bottom: 1px solid #EAEAEA;
+    backdrop-filter: blur(4px);
+    
+}
+
+.header__contato {
+
+margin-left: 1200px;
+font-size: 25px;
+text-align: center;
+}
+
+.header__name {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 40px;
+}
+
+
+.headerlogo {
+    font-size: 40px;
+    margin-left: 100px;
+    
+}
+
